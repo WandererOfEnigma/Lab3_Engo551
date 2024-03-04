@@ -1,0 +1,22 @@
+/* styles.css */
+
+/* Apply styles to the map container */
+#map {
+    width: 100%;
+    height: 70vh; /* Adjust the height as needed */
+    margin-bottom: 20px; /* Add some space between the map and the date picker */
+}
+
+/* Apply styles to the date range picker */
+#date-range-picker {
+    margin-bottom: 20px; /* Add some space between the date picker and the search button */
+}
+
+/* Apply styles to the search button */
+#search-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
